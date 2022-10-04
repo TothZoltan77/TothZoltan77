@@ -7,4 +7,4 @@
 <!---
 TothZoltan77/TothZoltan77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->My name is Zoltán Tóth. I am currently learning html, css.
+--->My name is Zoltán Tóth. I am currently learning html, css. I am interested in multimedia. I want to be a programmer. I handle photoshop and sony vegas at a high level
